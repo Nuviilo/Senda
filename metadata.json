@@ -1,0 +1,8 @@
+{
+  "name": "Senda",
+  "description": "Fast, secure, cross-platform peer-to-peer file transfer between Android, Windows, and web devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
